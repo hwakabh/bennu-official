@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.7.3](https://github.com/hwakabh/bennu-official/compare/v0.7.2...v0.7.3) (2024-05-24)
+
+
+### Dependencies
+
+* updated frequencies of checking. ([f78f9fd](https://github.com/hwakabh/bennu-official/commit/f78f9fd7da05e11e54e063c8d6e9729862f10a95))
+
 ## [0.7.2](https://github.com/hwakabh/bennu-official/compare/v0.7.1...v0.7.2) (2024-03-08)
 
 
